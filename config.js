@@ -29,11 +29,11 @@ const CONFIG = {
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "This much?",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Would you do me the honor of being my Valentine on February 14th, 2026?", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "Oh shit! Well ain't I the luckiest man on Earth! 💝🐶💝🐶💝",
         message: "Now come get your gift! It's me. That's it. Because we're broke!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
